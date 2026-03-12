@@ -1,6 +1,6 @@
 import Image from "next/image"
 
-export default function VenueDetailPage({params}:{params:{vid:string}}) {
+export default function VenueDetailPage({params}: {params: any}) {
 
     /**
      * Mock Date for Democonstration Only
